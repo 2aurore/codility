@@ -1,5 +1,7 @@
 total score : 100%
+
 Detected time complexity : O(1)
+
 
 ```C#
 using System;
