@@ -1,4 +1,5 @@
 total score : 100% 
+
 Detected time complexity : O(N) or O(N * log(N))
 
 
@@ -23,7 +24,8 @@ class Solution {
 
 
 total score : 80%
-`전체 `
+
+`전체 합 계산 시 int 범위를 초과해서 lage_range failed `
 
 ```C#
 using System;
