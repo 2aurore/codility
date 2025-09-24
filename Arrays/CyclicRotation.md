@@ -2,7 +2,7 @@
 total score : 100% 
 
 
-```C#C#
+```C#
 using System;
 
 class Solution
