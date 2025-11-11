@@ -2,7 +2,7 @@ Total score : 93%
 
 Detected time complexity : O(N*log(N))
 
-불필요한 반복 루프 제거
+불필요한 반복 루프 제거, 
 좌측 비교항의 int.MaxValue overflow 해결
 
 
